@@ -3,8 +3,7 @@
 
 RuhohSpec: '1.0'
 theme : twitter
-#theme: theme-bootstrap-2
-production_url : http://sample.com
+production_url : http://jeff66ruan.github.io
 
 posts:
   permalink: /:categories/:title/
