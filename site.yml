@@ -1,0 +1,16 @@
+title : Home
+tagline: 
+author :
+  name : Jeff Ruan
+  email : jeff66ruan@gmail.com
+  github : username
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
